@@ -1,3 +1,5 @@
+<img src="https://media1.tenor.com/m/2m6TXDbYmTIAAAAC/handsome-kuwabara-kuwabara.gif" width="996" height="556.5" />
+
 ## Hello, I'm Muhammad Rafif Ramadhansyah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi">
 A passionate newbie coders who want to develop everyday. Welcome to my GitHub!
 
