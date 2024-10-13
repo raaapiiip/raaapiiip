@@ -4,9 +4,9 @@
 A passionate newbie coders who want to develop everyday. Welcome to my GitHub!
 
 # 🙋🏻‍♂️ About Me:
-- 🎓 I’m currently pursuing a **Bachelors Degree in Informatics Engineering**<br><br>
-- 📗 I’m currently learning **Web Development**<br><br>
-- 💬 Let's talk about **Machine Learning**<br><br>
+- 🎓 I’m currently pursuing a **Bachelors Degree in Informatics Engineering**
+- 📗 I’m currently learning **Web Development**
+- 💬 Let's talk about **Machine Learning**
 - 📫 How to reach me **ramadansyah.rafif@gmail.com**
 
 # 🌐 Socials:
