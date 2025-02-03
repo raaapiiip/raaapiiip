@@ -1,4 +1,6 @@
-<img src="https://media1.tenor.com/m/2m6TXDbYmTIAAAAC/handsome-kuwabara-kuwabara.gif" width="996" height="556.5" />
+<div align="center">
+  <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJyZmt6bWpkOGR2MmdtYW05MWwza216Z21rbjQzeHhrcGNybGQ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eJbc3WmumGy57kYz0/giphy.gif" width="360" height="360">
+</div>
 
 ## Hello, I'm Muhammad Rafif Ramadhansyah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi">
 A passionate newbie coders who want to develop everyday. Welcome to my GitHub!
